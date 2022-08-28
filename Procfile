@@ -1,0 +1,1 @@
+web: java -jat .\target\videoCallAppBackend-0.0.1-SNAPSHOT.jar
